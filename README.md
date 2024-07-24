@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Alex Tran</h1>
-<h3 align="center">A passionate Data Analyst</h3>
 
 <!--
 **AlexDatTr/AlexDatTr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
