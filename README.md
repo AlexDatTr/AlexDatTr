@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm a data analyst with expertise in machine learning, Python, SQL, Tableau, Power BI, and Excel. I'm currently seeking new opportunities to apply my skills and contribute to impactful projects.
+I'm a data analyst with business background and expertise in machine learning, Python, SQL, Tableau, Power BI, and Excel. I'm currently seeking new opportunities to apply my skills and contribute to impactful projects.
 
 ## Skills
 
