@@ -55,13 +55,11 @@ Description: Brief description of the project.
 
 ## Education
 
-- **[Degree], [Field of Study]** *(Year – Year)*
-  - [University Name]
+
 
 ## Certifications
 
-- [Certification Name] – [Issuing Organization]
-- [Certification Name] – [Issuing Organization]
+- Comptia Data+ Certification (February, 2024)
 
 ## Contact
 
