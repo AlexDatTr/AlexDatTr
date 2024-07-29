@@ -65,8 +65,8 @@ Description: Brief description of the project.
 
 ## Contact
 
-- **Email:** [your-email@example.com]
-- **LinkedIn:** [Your LinkedIn Profile](link-to-profile)
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+- **Email:** [alex.tr1602@gmail.com]
+- **LinkedIn:** [Dat (Alex Tran) Tran](https://www.linkedin.com/in/alex-dat-tran/)
+- **GitHub:** [AlexDatTr](https://github.com/AlexDatTr)
 
 Feel free to explore my projects and reach out if you have any questions or opportunities. I'm always excited to connect with fellow data enthusiasts and professionals!
