@@ -28,12 +28,12 @@ I'm a data analyst with business background and expertise in machine learning, P
 
 ## Projects
 
-### [Project Name 1](link-to-repo)
+### [Human Resourses Analysis](link-to-repo)
 Description: Brief description of the project.
 - **Technologies:** Python, TensorFlow
 - **Highlights:** Key achievements or features of the project.
 
-### [Project Name 2](link-to-repo)
+### [Customer Churn Prediction](link-to-repo)
 Description: Brief description of the project.
 - **Technologies:** SQL, Tableau
 - **Highlights:** Key achievements or features of the project.
@@ -43,15 +43,6 @@ Description: Brief description of the project.
 - **Technologies:** Python, Scikit-Learn
 - **Highlights:** Key achievements or features of the project.
 
-## Experience
-
-- **Data Analyst at [Company Name]** *(Month Year – Month Year)*
-  - Worked on data visualization and reporting using Tableau and Power BI.
-  - Developed machine learning models for predictive analytics using Python.
-
-- **Junior Data Analyst at [Company Name]** *(Month Year – Month Year)*
-  - Performed data cleaning and manipulation using Pandas and SQL.
-  - Assisted in building dashboards and reports in Excel.
 
 ## Education
 
