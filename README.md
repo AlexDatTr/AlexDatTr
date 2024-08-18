@@ -28,19 +28,9 @@ I'm a data analyst with business background and expertise in machine learning, P
 
 ## Projects
 
-### [Human Resourses Analysis](link-to-repo)
+### [Human Resourses Analysis]()
 Description: Brief description of the project.
 - **Technologies:** Python, TensorFlow
-- **Highlights:** Key achievements or features of the project.
-
-### [Customer Churn Prediction](link-to-repo)
-Description: Brief description of the project.
-- **Technologies:** SQL, Tableau
-- **Highlights:** Key achievements or features of the project.
-
-### [Project Name 3](link-to-repo)
-Description: Brief description of the project.
-- **Technologies:** Python, Scikit-Learn
 - **Highlights:** Key achievements or features of the project.
 
 
