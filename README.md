@@ -44,7 +44,7 @@ Description: Brief description of the project.
 
 ## Contact
 
-- **Email:** [alex.tr1602@gmail.com]
+- **Email:** alex.tr1602@gmail.com
 - **LinkedIn:** [Dat (Alex Tran) Tran](https://www.linkedin.com/in/alex-dat-tran/)
 - **GitHub:** [AlexDatTr](https://github.com/AlexDatTr)
 
