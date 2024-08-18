@@ -28,7 +28,7 @@ I'm a data analyst with business background and expertise in machine learning, P
 
 ## Projects
 
-### [Human Resourses Analysis]()
+### [Human Resourses Analysis](https://github.com/AlexDatTr/Human-Resources-Analysis)
 Description: Brief description of the project.
 - **Technologies:** Python, TensorFlow
 - **Highlights:** Key achievements or features of the project.
