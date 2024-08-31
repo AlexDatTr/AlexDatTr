@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-As a data analyst with a strong business background and expertise in machine learning, Python, SQL, Tableau, Power BI, and Excel, I am passionate about optimizing processes and solving complex business challenges through data-driven solutions. I am currently seeking new opportunities to apply my skills and contribute to impactful projects that drive meaningful results.
+I
 
 ## Technial Skills
 
