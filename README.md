@@ -34,10 +34,18 @@ I have a diverse background in the hospitality industry, with a specialization i
 ## Projects
 
 ### [Human Resourses Analysis](https://github.com/AlexDatTr/Human-Resources-Analysis)
-Description: Brief description of the project.
+
+This repository contains a comprehensive analysis of Human Resources (HR) data, aiming to provide actionable insights into various aspects of employee management. The analysis covers topics such as employee turnover, performance evaluation, and workforce diversity, utilizing a range of data analytics and visualization techniques.
 
 - **Tech Stack:** Python (Pandas, Numpy, Matplotlib, Seaborn), Power BI
-- **Highlights:** Key achievements or features of the project.
+- **Key Features:** A key feature of this project is the development of an interactive Human Resources Dashboard. Given the dataset's similarity to those used by many HR management systems (HRMS) on the market, the Power BI dashboard can be easily adapted for business use with minimal fine-tuning and data transformation.
+
+<img src="https://github.com/user-attachments/assets/d1ef4410-bf7a-4b9d-a627-4fcba0d5738c" alt="Comprehensive HR Dashboard Overview" style="display: block; margin-left: auto; margin-right: auto;" />
+<p align="center"><i style="font-weight: 300;">Comprehensive HR Dashboard Overview</i></p>
+
+
+<img src="https://github.com/user-attachments/assets/c995a940-95f7-408e-83e4-66d7ad7293aa" alt="Employee Retention and Demographic Insights" style="display: block; margin-left: auto; margin-right: auto;" />
+<p align="center"><i style="font-weight: 300;">Employee Demographic Insights</i></p>
 
 ## Contact
 
