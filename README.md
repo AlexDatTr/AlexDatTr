@@ -40,21 +40,22 @@ This repository contains a comprehensive analysis of Human Resources (HR) data, 
 - **Tech Stack:** Python (Pandas, Numpy, Matplotlib, Seaborn), Power BI
 - **Key Features:** A key feature of this project is the development of an interactive Human Resources Dashboard. Given the dataset's similarity to those used by many HR management systems (HRMS) on the market, the Power BI dashboard can be easily adapted for business use with minimal fine-tuning and data transformation.
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
   <tr>
-    <td>
+    <td style="border: none;">
       <img src="https://github.com/user-attachments/assets/d1ef4410-bf7a-4b9d-a627-4fcba0d5738c" alt="Comprehensive HR Dashboard Overview" style="display: block;" />
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://github.com/user-attachments/assets/c995a940-95f7-408e-83e4-66d7ad7293aa" alt="Employee Retention and Demographic Insights" style="display: block;" />
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td colspan="2" align="center" style="border: none;">
       <p><i style="font-weight: 300;">Human Resources Dashboard</i></p>
     </td>
   </tr>
 </table>
+
 
 
 ## Contact
