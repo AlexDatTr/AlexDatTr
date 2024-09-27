@@ -65,7 +65,21 @@ This project focuses on analyzing the Payroll Based Journal (PBJ) Daily Nurse St
 ![{498870CB-B192-47AF-B7BE-A6A90A583681}](https://github.com/user-attachments/assets/833a6e16-2485-4e74-9223-06a3fea7997d) 
 ![{FF5C9766-F63B-4CC9-92C2-C4CB4E3A4CAC}](https://github.com/user-attachments/assets/8798fa29-bc96-42f3-b3bb-a79bfeaa2c45)
 
-
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+  <tr>
+    <td style="border: none;">
+      <img src="https://github.com/user-attachments/assets/833a6e16-2485-4e74-9223-06a3fea7997d" alt="Comprehensive HR Dashboard Overview" style="display: block;" />
+    </td>
+    <td style="border: none;">
+      <img src="https://github.com/user-attachments/assets/8798fa29-bc96-42f3-b3bb-a79bfeaa2c45" alt="Employee Retention and Demographic Insights" style="display: block;" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="border: none;">
+      <p><i style="font-weight: 300;">Human Resources Dashboard</i></p>
+    </td>
+  </tr>
+</table>
 
 
 ## Contact
