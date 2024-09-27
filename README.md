@@ -56,6 +56,8 @@ This repository contains a comprehensive analysis of Human Resources (HR) data, 
   </tr>
 </table>
 
+### [Sale Recommendation from PBJ Nurse Staffing Dataset]([https://github.com/AlexDatTr/Human-Resources-Analysis](https://github.com/AlexDatTr/Visualization/blob/main/PBJ%20Dataset%20-%20Market%20Recommendation.pdf)
+
 
 
 ## Contact
