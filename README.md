@@ -58,6 +58,14 @@ This repository contains a comprehensive analysis of Human Resources (HR) data, 
 
 ### [Sale Recommendation from PBJ Nurse Staffing Dataset](https://github.com/AlexDatTr/Visualization/blob/main/PBJ%20Dataset%20-%20Market%20Recommendation.pdf)
 
+This project focuses on analyzing the Payroll Based Journal (PBJ) Daily Nurse Staffing data for Q1 2024. The goal is to provide actionable insights to the sales leadership team for enhancing market penetration and revenue generation from contracted nurse staffing services. The analysis emphasizes targeting high-value providers in key geographic regions and tailoring recruitment strategies for essential nursing roles.
+
+- **Tech Stack:**  Excel, Power Query, Python
+
+![{498870CB-B192-47AF-B7BE-A6A90A583681}](https://github.com/user-attachments/assets/833a6e16-2485-4e74-9223-06a3fea7997d) 
+![{FF5C9766-F63B-4CC9-92C2-C4CB4E3A4CAC}](https://github.com/user-attachments/assets/8798fa29-bc96-42f3-b3bb-a79bfeaa2c45)
+
+
 
 
 ## Contact
