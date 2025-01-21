@@ -31,52 +31,6 @@ I have a diverse background in the hospitality industry, with a specialization i
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Projects
-
-### [Human Resourses Analysis](https://github.com/AlexDatTr/Human-Resources-Analysis)
-
-This repository contains a comprehensive analysis of Human Resources (HR) data, aiming to provide actionable insights into various aspects of employee management. The analysis covers topics such as employee turnover, performance evaluation, and workforce diversity, utilizing a range of data analytics and visualization techniques.
-
-- **Tech Stack:** Python (Pandas, Numpy, Matplotlib, Seaborn), Power BI
-- **Key Features:** A key feature of this project is the development of an interactive Human Resources Dashboard. Given the dataset's similarity to those used by many HR management systems (HRMS) on the market, the Power BI dashboard can be easily adapted for business use with minimal fine-tuning and data transformation.
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
-  <tr>
-    <td style="border: none;">
-      <img src="https://github.com/user-attachments/assets/d1ef4410-bf7a-4b9d-a627-4fcba0d5738c" alt="Comprehensive HR Dashboard Overview" style="display: block;" />
-    </td>
-    <td style="border: none;">
-      <img src="https://github.com/user-attachments/assets/c995a940-95f7-408e-83e4-66d7ad7293aa" alt="Employee Retention and Demographic Insights" style="display: block;" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" style="border: none;">
-      <p><i style="font-weight: 300;">Human Resources Dashboard</i></p>
-    </td>
-  </tr>
-</table>
-
-### [Sale Recommendation from PBJ Nurse Staffing Dataset](https://github.com/AlexDatTr/Visualization/blob/main/PBJ%20Dataset%20-%20Market%20Recommendation.pdf)
-
-This project focuses on analyzing the Payroll Based Journal (PBJ) Daily Nurse Staffing data for Q1 2024. The goal is to provide actionable insights to the sales leadership team for enhancing market penetration and revenue generation from contracted nurse staffing services. The analysis emphasizes targeting high-value providers in key geographic regions and tailoring recruitment strategies for essential nursing roles.
-
-- **Tech Stack:**  Excel, Power Query, Python
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
-  <tr>
-    <td style="border: none;">
-      <img src="https://github.com/user-attachments/assets/833a6e16-2485-4e74-9223-06a3fea7997d" alt="Comprehensive HR Dashboard Overview" style="display: block;" />
-    </td>
-    <td style="border: none;">
-      <img src="https://github.com/user-attachments/assets/8798fa29-bc96-42f3-b3bb-a79bfeaa2c45" alt="Employee Retention and Demographic Insights" style="display: block;" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" style="border: none;">
-      <p><i style="font-weight: 300;"></i></p>
-    </td>
-  </tr>
-</table>
 
 
 ## Contact
