@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I have a diverse background in the hospitality industry, with a specialization in management and business development. As my career progressed, I became increasingly involved in operational optimization and development. This experience sparked a growing interest in leveraging data to quantify and solve complex business challenges. So I studies in Data Science and transitioned into the role of a Data Analyst/ Data Scientist!
+I have a background in the hospitality industry, specializing in management and business development. As my career progressed, I became increasingly involved in operational optimization and development. This experience grow my growing interest in leveraging data to quantify and solve business challenges. So I studied Data Science and transitioned into the role of a Data Analyst/ Data Scientist!
 
 ## Technial Skills
 
