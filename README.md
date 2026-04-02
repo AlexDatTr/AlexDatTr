@@ -15,19 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-I have a background in the hospitality industry, specializing in management and business development. As my career progressed, I became increasingly involved in operational optimization and development. This experience grow my growing interest in leveraging data to quantify and solve business challenges. So I studied Data Science and transitioned into the role of a Data Analyst/ Data Scientist!
-
-## Technial Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
 ## Contact
 
 - **Email:** alex.tr1602@gmail.com
